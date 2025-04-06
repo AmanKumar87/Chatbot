@@ -9,6 +9,7 @@ GreenBuddy is a specialized chatbot designed to provide expert gardening advice 
 - **Text-to-Speech**: Built-in text-to-speech functionality that reads responses aloud
 - **Modern UI**: Clean, responsive interface with dark mode support
 - **Real-time Interaction**: Instant responses to your gardening queries
+- **Multiple Access Options**: Choose between a floating widget or a dedicated full-page experience
 
 ## Screenshots
 
@@ -41,13 +42,19 @@ GreenBuddy is a specialized chatbot designed to provide expert gardening advice 
    python app.py
    ```
 
-5. Open `chatbot.html` in your web browser to start using GreenBuddy.
+5. Open `index.html` in your web browser to start using GreenBuddy.
 
 ## Usage
 
-1. **Ask Gardening Questions**: Type your gardening-related questions in the input field and press Enter or click the send button.
-2. **Toggle Text-to-Speech**: Click the speaker button to enable/disable text-to-speech for bot responses.
-3. **Dark Mode**: Toggle dark mode using the switch in the top-right corner.
+1. **Access Options**:
+
+   - **Floating Widget**: Click "Try GreenBuddy Now" to open the floating chatbot widget
+   - **Full Page Experience**: Click "Full Chatbot Experience" to use the dedicated chatbot page
+
+2. **Ask Gardening Questions**: Type your gardening-related questions in the input field and press Enter or click the send button.
+3. **Toggle Text-to-Speech**: Click the speaker button to enable/disable text-to-speech for bot responses.
+4. **Dark Mode**: Toggle dark mode using the switch in the top-right corner.
+5. **Navigation**: Use the back button on the dedicated page to return to the main page.
 
 ## Example Questions
 
